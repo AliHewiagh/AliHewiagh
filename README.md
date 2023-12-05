@@ -17,7 +17,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- ⛳ I’m from Libya 🇱🇾. Living in Malaysia 🇲🇾.
+- ⛳ I’m from Libya 🇱🇾.
   
 - 💻 I’m a cross platform developer (Specializing in web development).
   
