@@ -21,14 +21,12 @@
   
 - 💻 I’m a cross platform developer (Specializing in web development).
   
-- 📚 I’m pursuing master of science in IT (Developing a machine leaning model to detect frauds in a waste management system) [Publication](https://www.mdpi.com/2313-4321/6/4/65).
    
 - 👥 Welcome for collaboration/discussing programming problems.
   
-- 💬 Ask me about NodeJS, JavaScript, TypeScript, Python, Swift, Angular, Ionic, Electron, MongoDB, Sql, Postgres, Sequelize, Docker, AWS, Github Actions, Gitlab Pipeline, Heroku. 
+- 💬 Ask me about NodeJS, JavaScript, TypeScript, Python, Angular, MongoDB, Sql, Postgres, Vector Databases, Sequelize, Docker, AWS, OpenAi, Git-hub Actions. 
   
 - ⚡ Hobbies:  ⚽ 🏸 💻.
-
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'www.linkedin.com/in/alihewiagh37'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
