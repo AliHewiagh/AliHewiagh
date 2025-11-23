@@ -64,20 +64,5 @@ React · Next.js · Angular · HTML · CSS · Tailwind · Material UI
 
 ---
 
-## GitHub Stats  
-
-| ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliHewiagh&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliHewiagh&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHewiagh&theme=tokyonight) |
-
----
-
-## Activity Graph  
-> *(The old activity graph API is deprecated — here is a stable alternative)*
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AliHewiagh&theme=tokyo-night)
-
----
-
 ### ☕ Last Updated: 2025  
 
