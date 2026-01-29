@@ -1,4 +1,4 @@
-<h1> Hi, I'm Ali 👋 - AI Agent Engineer </h1>
+<h1> Hi, I'm Ali 👋 - Software/AI Agent Engineer </h1>
 
 <p>
 I build production-grade <b>AI agents</b>, multi-agent workflows, and scalable backend platforms.  
